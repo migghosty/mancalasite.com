@@ -4,6 +4,9 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+body {
+    background-color: #3f3f3f;
+}
 .background {
     background-color: #3f3f3f;
     padding-top: 2px;
