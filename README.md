@@ -1,3 +1,3 @@
 # mancalasite.com
 
-Visit site: https://github.com/migghosty/mancalasite.com.git
+Visit site: https://migghosty.github.io/mancalasite.com/
